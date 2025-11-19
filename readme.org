@@ -1,0 +1,7 @@
+* main
+** Introduction
+This repository stores the image files to run some systemd-nspawn containers, therefore you can import image via http from here.
+
+For usage introduction and other information, see [[https://codeberg.org/gituser/systemd-nspawn-config][another configurations repository]] on codeberg.org.
+
+
