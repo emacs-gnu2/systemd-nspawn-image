@@ -6,7 +6,7 @@ For all image files, see [[https://github.com/emacs-gnu2/systemd-nspawn-image/re
 
 For usage introduction and other information, see [[https://codeberg.org/gituser/systemd-nspawn-config][another configurations repository]] on codeberg.org.
 ** Currently supported containers
-+ =debian13-mini=, Minimal installation of debian13
++ =container-trixie-mini=, Minimal installation of debian13
 + =pubmail=, transform from docker-mailserver project, use mysql to store email account info.
 + =container-prod-jenkins=, run a jenkins server
 + =container-prod-openresty=, run a nginx server (based on openresty)
